@@ -1,0 +1,49 @@
+/*
+  
+   Author: MY CHAU TU
+   Date:   2015/02/19
+
+*/
+
+
+section p{
+	font-size: 16px;
+	margin: 15px;
+}
+
+section img{
+	
+	float: left;
+	margin: 15px;
+	width: 70%; 
+	clear: both;
+}
+
+.coupon{
+	border-style: solid;
+	border-color: black;
+	border-width: 1px;
+	float: left;
+	width: 300px;
+	height: 300px;
+	margin: 20px 10px 20px 15px;
+    background-size:   cover;                      /* <------ */
+    background-repeat: no-repeat;
+    background-position: center center;
+/*	background-repeat: no-repeat;
+	background-position:  bottom right;
+	background-color: white;*/
+}
+
+.coupon h1{
+	color: white;	
+	font-size: 16px;
+	letter-spacing: 2px;
+	text-align: center;
+	height: 25px;
+	text-transform: initial;
+}
+
+
+
+
