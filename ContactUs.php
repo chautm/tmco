@@ -11,7 +11,7 @@
    -->
 
       <meta charset="UTF-8" />
-      <title>ASTCO</title>
+      <title>TMCO</title>
       <script src="modernizr-1.5.js"></script>
       <script src="formsubmit.js"></script>
       <link href="common.css" rel="stylesheet" type="text/css" />
@@ -33,10 +33,10 @@
                
                   <fieldset id="address">
 						</br></br>
-                      	<p>Addresse: 303-5025 Avenue Macdonald</br>
-						Montreal, QC  H3X 2V2 </br>
-						Email: hoang.tran@astco.ca</br>
-						Tel:(514) 975 - 1977 <br/>					                           
+                      	<p>Addresse: 312-4800 Boulevard Decarie</br>
+						Montreal, QC  H3X 2H5 </br>
+						Email: chautm@gmail</br>
+						Tel:(514) 488 - 2161 <br/>					                           
 						</p>
 						</br>
                   </fieldset>

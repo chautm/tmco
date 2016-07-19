@@ -15,7 +15,7 @@
    -->
 
       <meta charset="UTF-8" />
-      <title>ASTCO</title>
+      <title>TMCO</title>
       <script src="./js/modernizr-1.5.js"></script>
       <link rel="STYLESHEET" type="text/css" href="style/fg_membersite.css" />
       <link rel="stylesheet" type="text/css" href="common.css">
