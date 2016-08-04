@@ -57,7 +57,7 @@
 							<!--  background-image: url('./img/commercial.jpg'); -->
 					<p>"Dedicated to quality and client satisfaction by providing innovative, practical, and cost-effective structural designs and solutions."
 					</p>
-					<p>--Astco engineers--</p>
+					<p>--TMCO engineers--</p>
                  </div>
 			
          </section>
