@@ -35,8 +35,7 @@
 						</br></br>
                       	<p>Addresse: 312-4800 Boulevard Decarie</br>
 						Montreal, QC  H3X 2H5 </br>
-						Email: chautm@gmail.com</br>
-						Tel:(514) 488 - 2161 <br/>					                           
+						Email: tmco_info@tumychau.com</br>									                           
 						</p>
 						</br>
                   </fieldset>
